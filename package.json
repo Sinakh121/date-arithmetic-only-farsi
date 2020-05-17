@@ -1,0 +1,24 @@
+{
+  "name": "date-arithmetic-only-farsi",
+  "version": "1.0.0",
+  "description": "simple date math util for using with in persian calendars",
+  "main": "index.cj.min.js",
+  "dependencies": {
+    "jalali-moment": "^3.3.3",
+    "rollup": "^2.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node -r esm test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sinakh121/date-arithmetic-only-farsi.git"
+  },
+  "author": "Jason Quense @monasticpanic & Sina Khodabandehloo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sinakh121/date-arithmetic-only-farsi/issues"
+  },
+  "homepage": "https://github.com/Sinakh121/date-arithmetic-only-farsi#readme"
+}
